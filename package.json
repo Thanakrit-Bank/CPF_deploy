@@ -46,5 +46,8 @@
   "bugs": {
     "url": "https://github.com/Sathaporn-Phila/CPF_work_schedule/issues"
   },
-  "homepage": "https://github.com/Sathaporn-Phila/CPF_work_schedule#readme"
+  "homepage": "https://github.com/Sathaporn-Phila/CPF_work_schedule#readme",
+  "scripts": {
+    "start": "node index.js"
+ }
 }
