@@ -49,5 +49,11 @@
   "homepage": "https://github.com/Sathaporn-Phila/CPF_work_schedule#readme",
   "scripts": {
     "start": "node index.js"
- }
+ },
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+   "node": "12.22.4"
+  }
 }
