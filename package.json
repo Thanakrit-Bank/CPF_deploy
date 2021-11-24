@@ -46,10 +46,8 @@
   "bugs": {
     "url": "https://github.com/Sathaporn-Phila/CPF_work_schedule/issues"
   },
-  "homepage": "https://github.com/Sathaporn-Phila/CPF_work_schedule#readme",
-  "scripts": {
-    "start": "node index.js"
- },
+  "homepage": "https://github.com/Sathaporn-Phila/CPF_work_schedule#readme"
+  ,
   "name": "myapp",
   "description": "a really cool app",
   "version": "1.0.0",
